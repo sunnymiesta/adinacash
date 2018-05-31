@@ -32,7 +32,7 @@
         "BYTECOIN_NETWORK": "c3ef1304-66a0-ae46-4d63-bcfa54b2de0d",
         "CRYPTONOTE_NAME": "adina",
         "DAEMON_NAME": "adinad",
-        "GENESIS_COINBASE_TX_HEX": "",
+        "GENESIS_COINBASE_TX_HEX": "011401ff0001ffffffffff1f029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd0880712101344080dacbd68604bb524b1835bd107c2a51efacb824cd7a80f9f15b2279f00b",
         "CHECKPOINTS": "",
         "MAX_BLOCK_SIZE_INITIAL": 100000
     },
