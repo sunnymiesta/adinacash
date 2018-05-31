@@ -2,12 +2,9 @@
 {
     "core": {
         "SEED_NODES": [
-		    "node1.adina.host:15715",
-            "node2.adina.host:15715",
-            "node3.adina.host:15715",
             "192.168.2.46:15715",
             "192.168.2.47:15715",
-            "192.168.2.45:15715"
+            "192.168.2.44:15715"
         ],
         "EMISSION_SPEED_FACTOR": 24,
         "DIFFICULTY_TARGET": 60,
